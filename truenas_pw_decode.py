@@ -7,7 +7,7 @@
 #	This scirpt is for educational use only, don't use this to get access you would'nt normally. Be responsible.
 #
 
-import sys		# Importing the sys module to access command-line arguments
+import sys	# Importing the sys module to access command-line arguments
 
 # Check if the major version of Python is 3
 if sys.version_info[0] != 3:
