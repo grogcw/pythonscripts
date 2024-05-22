@@ -4,7 +4,7 @@
 #	You can get the salt by hex editing your "pwenc_secret" and the encrypted password from the DB. (SQLite)
 #	Saving your configuration with salt gives you everything.
 #
-#	This script is for educational use only, don't use this to get access you would'nt normally. Be responsible.
+#	This script is for educational use only, don't use this to get access you wouldn't normally. Be responsible.
 #
 
 import sys	# Importing the sys module to access command-line arguments
